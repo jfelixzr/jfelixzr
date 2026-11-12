@@ -1,27 +1,49 @@
-<p><img src="./jfelixdev-banner.png" alt="jfelixdev · Desarrollo web e integraciones" width="100%"></p>
+<p><img src="./jfelixdev-banner.png" alt="José Félix Zapata · Desarrollo web, integraciones e IA aplicada" width="100%"></p>
 
-# Hola, soy José Zapata
+## Hola, soy José Félix Zapata 👋
 
-Soy ingeniero informático con más de 9 años de experiencia en desarrollo web y formación en marketing digital y analítica web. Diseño y desarrollo sitios, tiendas online y aplicaciones a medida. También ayudo a mejorar proyectos existentes y a conectar sistemas para quitar pasos manuales.
+**Desarrollador WordPress y headless (Astro) · Rendimiento web (WPO) · Integraciones e IA aplicada**
 
-[**Portafolio en español ↗**](https://jfelixdev.com/es/) · [**Proyectos ↗**](https://jfelixdev.com/projects/) · [**Perfil de Bricks Expert ↗**](https://bricksbuilder.io/expert/jose-felix-zapata-rivero/)
+Ingeniero informático con **más de 9 años** construyendo sitios, tiendas WooCommerce y aplicaciones a medida para clientes de Latinoamérica, EE. UU. y Europa (**5★ en Workana**). Me enfoco en que los sitios **carguen rápido, sean fáciles de editar y midan lo que importa**.
 
-## En qué trabajo
+[🌐 Portafolio](https://jfelixdev.com/es/) · [🧩 Proyectos](https://jfelixdev.com/projects/) · [🧱 Bricks Expert](https://bricksbuilder.io/expert/jose-felix-zapata-rivero/) · [💼 LinkedIn](https://www.linkedin.com/in/jose-felix-zapata-rivero/)
 
-- **WordPress y comercio electrónico.** Sitios editables con Bricks, tiendas con WooCommerce y plugins a medida en PHP.
-- **Aplicaciones y headless.** Desarrollo con JavaScript, React y Astro. Cuando conviene separar el sitio del gestor de contenidos, trabajo con WordPress o Strapi.
-- **Rendimiento, SEO técnico y analítica.** Reviso qué frena un sitio, preparo migraciones y configuro eventos para medir acciones como formularios o compras.
+---
 
-## IA aplicada y automatización
+### 🛠️ Qué hago
 
-Diseño pilotos de asistentes para web y WhatsApp, y flujos que conectan herramientas por API. Antes de poner un asistente en marcha, defino qué puede responder, a qué datos puede acceder y cuándo debe derivar a una persona.
+| Área | En concreto |
+|---|---|
+| **WordPress y e-commerce** | Sitios editables con Bricks, Elementor o Gutenberg; tiendas WooCommerce; plugins a medida en PHP |
+| **Headless** | WordPress o Strapi como gestor de contenidos y frontend en Astro/React sobre Cloudflare |
+| **Rendimiento y SEO técnico** | Core Web Vitals, caché/CDN, imágenes WebP/AVIF, priorización del LCP, schema, migraciones sin perder posiciones |
+| **Integraciones e IA** | Conexión de CRM, formularios y APIs; asistentes para web y WhatsApp con límites claros y paso a una persona |
 
-También trabajo en herramientas internas para coordinar tareas entre agentes y validar cambios de software. Según el proyecto, uso entornos de prueba, datos ficticios y revisión humana antes de publicar.
+### 🚀 Proyectos destacados
 
-## Proyectos seleccionados
+- **[jfelixdev.com](https://jfelixdev.com)**: mi portafolio, hecho con WordPress headless, Astro y Cloudflare, como prueba de concepto de alto rendimiento.
+- **[Spartans Fitness Warriors](https://jfelixdev.com/projects/spartans-fitness-warriors/)**: tienda de suplementos construida desde cero con Bricks, WooCommerce y código a medida.
+- **[Boostim](https://jfelixdev.com/projects/boostim/)**: sitio para una agencia de marketing digital.
+- **[Company Order Metadata](https://github.com/jfelixzr/company-order-metadata)**: plugin público de WooCommerce que asigna una referencia interna a cada pedido (solo lectura en el admin).
+- **Suite de plugins propios para WordPress**: módulos de WPO (auditoría de assets e imágenes, explicación del LCP, cambios con rollback), SEO técnico y seguridad. Desarrollada con Git, CI y entornos Docker.
 
-- **[Spartans Fitness Warriors](https://jfelixdev.com/projects/spartans-fitness-warriors/)** — Tienda de suplementos construida desde cero con Bricks, WooCommerce y código a medida.
-- **[Boostim](https://jfelixdev.com/projects/boostim/)** — Sitio para una agencia de marketing digital, diseñado para presentar sus servicios y dar visibilidad a su trabajo.
-- **[Company Order Metadata](https://github.com/jfelixzr/company-order-metadata)** — Plugin público de WooCommerce que asigna una referencia interna al crear un pedido y la muestra como solo lectura en el panel de administración.
+### 🧰 Stack
 
-Colaboro con empresas, profesionales y agencias, desde el diseño y las pruebas hasta la puesta en marcha y el soporte continuo.
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+### 🤝 Cómo trabajo
+
+Entornos de prueba y datos ficticios antes de tocar producción, control de versiones en todo y revisión humana antes de publicar. Acompaño el proyecto completo: diseño, pruebas, puesta en marcha y soporte continuo.
+
+**¿Tienes un proyecto?** Escríbeme desde [jfelixdev.com](https://jfelixdev.com/es/) o por [LinkedIn](https://www.linkedin.com/in/jose-felix-zapata-rivero/).
+
+<sub>🇬🇧 English: WordPress & headless (Astro) developer focused on web performance, WooCommerce and API/AI integrations. 9+ years, remote.</sub>
