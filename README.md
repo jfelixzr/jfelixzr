@@ -6,7 +6,7 @@
 
 Ingeniero informático con **más de 9 años** construyendo sitios, tiendas WooCommerce y aplicaciones a medida para clientes de Latinoamérica, EE. UU. y Europa (**5★ en Workana**). Me enfoco en que los sitios **carguen rápido, sean fáciles de editar y midan lo que importa**.
 
-[🌐 Portafolio](https://jfelixdev.com/es/) · [🧩 Proyectos](https://jfelixdev.com/projects/) · [🧱 Bricks Expert](https://bricksbuilder.io/expert/jose-felix-zapata-rivero/) · [💼 LinkedIn](https://www.linkedin.com/in/jose-felix-zapata-rivero/)
+[🌐 Portafolio](https://jfelixdev.com/es/) · [🧩 Proyectos](https://jfelixdev.com/projects/) · [🧱 Bricks Expert](https://bricksbuilder.io/expert/jose-felix-zapata-rivero/) · [💼 LinkedIn](https://www.linkedin.com/in/jose-felix-zapata-rivero/) · [Workana](https://www.workana.com/freelancer/c0f98cf15070223093f8f63f533af7ab)
 
 ---
 
