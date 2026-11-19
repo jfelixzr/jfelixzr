@@ -1,6 +1,6 @@
 <p><img src="./jfelixdev-banner.png" alt="José Félix Zapata · Desarrollo web, integraciones e IA aplicada" width="100%"></p>
 
-## Hola, soy José Félix Zapata 👋
+## Hola, soy José Félix Zapata 
 
 **Desarrollador WordPress y headless (Astro) · Rendimiento web (WPO) · Integraciones e IA aplicada**
 
