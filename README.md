@@ -44,6 +44,6 @@ Ingeniero informático con **más de 9 años** construyendo sitios, tiendas WooC
 
 Entornos de prueba y datos ficticios antes de tocar producción, control de versiones en todo y revisión humana antes de publicar. Acompaño el proyecto completo: diseño, pruebas, puesta en marcha y soporte continuo.
 
-**¿Tienes un proyecto?** Escríbeme desde [jfelixdev.com](https://jfelixdev.com/es/) o por [LinkedIn](https://www.linkedin.com/in/jose-felix-zapata-rivero/).
+**¿Tienes un proyecto?** Escríbeme desde [jfelixdev.com](https://jfelixdev.com/es/) o por [LinkedIn](https://www.linkedin.com/in/jose-felix-zapata-rivero-/).
 
 <sub>🇬🇧 English: WordPress & headless (Astro) developer focused on web performance, WooCommerce and API/AI integrations. 9+ years, remote.</sub>
